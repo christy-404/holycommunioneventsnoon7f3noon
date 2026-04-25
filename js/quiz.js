@@ -81,7 +81,7 @@
     },
     {
       question: 'Where is Emmanuel\'s dream vacation destination?',
-      answers: ['THE USA', 'ENGLAND', 'SAO PAULO(BRAZIL)', 'ITALY'],
+      answers: ['THE USA', 'ENGLAND', 'SAO PAULO(BRAZIL)', 'DUBAI(UAE)'],
       correct: 3
     },
     {
